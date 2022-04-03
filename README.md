@@ -1,4 +1,9 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm yangton</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yangton&label=Profile%20views&color=7d00e1&style=plastic" alt="yangton" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yangton" alt="yangton" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/a_yangton" target="blank"><img src="https://img.shields.io/twitter/follow/a_yangton?logo=twitter&style=for-the-badge" alt="a_yangton" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
