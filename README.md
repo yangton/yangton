@@ -23,3 +23,7 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 
 - GitHub: [yangton](https://github.com/yangton)
 - LinkedIn: [yangton](https://www.linkedin.com/in/yangton/)
+
+## GitHub Stats
+
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=yangton&show_icons=true)
