@@ -1,39 +1,25 @@
-<h6 align="left">Hey 👋 What's up?</h6>
+# Hi there, I'm yangton! 👋
 
-###
+## About Me
 
-<h6 align="left">My name is Yangton</h6>
+I'm a passionate coder interested in web scraping, automation, and AI.
 
-###
+- 🌱 I’m currently learning new programming languages and frameworks.
+- 👯 I’m looking to collaborate on open source projects.
+- 🥅 2023 Goals: Contribute more to Open Source projects.
 
-<p align="left">About me</p>
+## Languages and Tools
 
-###
+[<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">](https://www.python.org/)
+[<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">](https://golang.org/)
+[<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">](https://www.linux.org/)
 
-<h6 align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning golang</h6>
+### Editors
 
-###
+[<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio">](https://visualstudio.microsoft.com/)
+[<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code">](https://code.visualstudio.com/)
 
-<h6 align="left">I code with</h6>
+## Get in Touch
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" width="52" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="40" width="52" alt="qt logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="52" alt="docker logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" width="52" alt="visualstudio logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/yangton/count.svg?"  />
-</div>
+- GitHub: [yangton](https://github.com/yangton)
+- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yangton/)
