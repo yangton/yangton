@@ -22,4 +22,4 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 ## Get in Touch
 
 - GitHub: [yangton](https://github.com/yangton)
-- LinkedIn: [YourLinkedInProfile](https://www.linkedin.com/in/yangton/)
+- LinkedIn: [yangton](https://www.linkedin.com/in/yangton/)
