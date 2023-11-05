@@ -26,4 +26,4 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 
 ## GitHub Stats
 
-![Repository's Stats]([https://github-readme-stats.vercel.app/api?username=yangton&show_icons=true](https://github-readme-stats.vercel.app/api?username=yangton&show_icons=true&theme=radical&bg_color=000000&title_color=8E2DE2&text_color=ffffff&icon_color=8E2DE2)https://github-readme-stats.vercel.app/api?username=yangton&show_icons=true&theme=radical&bg_color=000000&title_color=8E2DE2&text_color=ffffff&icon_color=8E2DE2)
+![Repository's Stats](https://github-readme-stats.vercel.app/api?username=yangton&show_icons=true&theme=radical&bg_color=000000&title_color=8E2DE2&text_color=ffffff&icon_color=8E2DE2)
