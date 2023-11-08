@@ -10,17 +10,17 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,vscode,docker,git,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,docker,git,linux&perline=3)](https://skillicons.dev)
 
 ### Editors
 
-[<img src="https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=visual%20studio&logoColor=white" alt="Visual Studio">](https://visualstudio.microsoft.com/)
-[<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white" alt="VS Code">](https://code.visualstudio.com/)
+[![LinkedIn](https://skillicons.dev/icons?i=vscodeperline=3)](https://visualstudio.microsoft.com/)
+[![vscode](https://skillicons.dev/icons?i=linkedin&perline=3)](https://code.visualstudio.com/)
 
 ## Get in Touch
 
 [![Github](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/yangton)
-[![My Skills](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/yangton/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/yangton/)
 
 
 ## GitHub Stats
