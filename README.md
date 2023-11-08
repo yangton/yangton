@@ -19,8 +19,8 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 
 ## Get in Touch
 
-[![GitHub]([https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white](https://skillicons.dev/icons?i=github))](https://github.com/yangton)
-[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://skillicons.dev/icons?i=linkedin))](https://www.linkedin.com/in/yangton/)
+[![GitHub]([https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white](https://skillicons.dev/icons?i=github)](https://github.com/yangton)
+[![LinkedIn]([https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/yangton/)
 
 
 ## GitHub Stats
