@@ -10,9 +10,10 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 
 ## Languages and Tools
 
-[<img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">](https://www.python.org/)
-[<img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white" alt="Go">](https://golang.org/)
-[<img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux">](https://www.linux.org/)
+[![vscode](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/vscode.svg)](https://code.visualstudio.com/)
+[![linux](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/linux.svg)](https://www.linux.org/)
+[![python](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/python.svg)](https://www.python.org/)
+[![go](https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/go.svg)](https://golang.org/)
 
 ### Editors
 
