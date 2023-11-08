@@ -14,8 +14,8 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 
 ### Editors
 
-[![LinkedIn](https://skillicons.dev/icons?i=vscodeperline=3)](https://visualstudio.microsoft.com/)
-[![vscode](https://skillicons.dev/icons?i=linkedin&perline=3)](https://code.visualstudio.com/)
+[![vscode](https://skillicons.dev/icons?i=vscode*perline=3)](https://code.visualstudio.com/)
+[![visualstudio](https://skillicons.dev/icons?i=visualstudio&perline=3)](https://visualstudio.microsoft.com/)
 
 ## Get in Touch
 
