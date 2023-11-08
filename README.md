@@ -10,7 +10,7 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 
 ## Languages and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,vscode,linux&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,vscode,git,linux&perline=3)](https://skillicons.dev)
 
 ### Editors
 
