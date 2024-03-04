@@ -20,7 +20,7 @@ I'm a passionate coder interested in web scraping, automation, and AI.
 ## Get in Touch
 
 [![Github](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/yangton)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin&perline=3)](https://www.linkedin.com/in/yangton/)
+[![LinkedIn](https://skillicons.dev/icons?i=discord&perline=3)](https://www.linkedin.com/in/yangton/)
 
 
 ## GitHub Stats
