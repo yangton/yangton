@@ -28,6 +28,6 @@ I started my journey with a keen interest in cybersecurity, which led me to test
 
 - Visit my [website](https://yangton.framer.ai/) 🌐
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82aj-k%C4%85dziela-a91978226/) 💼
-- Email me at [mikolaj.kadziela@tuta.io](mailto:mikolaj.kadziela@tuta.io) ✉️ (available after clicking)
+- Email me at [mikolaj.kadziela(at)tuta(dot)io](mailto:mikolaj.kadziela@tuta.io) ✉️ (available after clicking)
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
