@@ -1,28 +1,33 @@
-# Hi there, I'm yangton! 👋
+# Hi there, I'm Yangton! 👋
+
+Welcome to my GitHub profile! I'm a 19-year-old IT enthusiast with a passion for cybersecurity, network engineering, and software development. I love exploring new technologies and working on innovative projects.
 
 ## About Me
 
-I'm a passionate coder interested in web scraping, automation, and AI.
+I started my journey with a keen interest in cybersecurity, which led me to test website security and develop tools to make cryptocurrency mining more accessible. As a freelancer, I have worked on various projects involving Python, Go, and network automation. My goal is to continuously expand my skills and knowledge in these areas.
 
-- 🌱 I’m currently learning new programming languages and frameworks.
-- 👯 I’m looking to collaborate on open source projects.
-- 🥅 2023 Goals: Contribute more to Open Source projects.
+## 🔒 Skills
 
-## Languages and Tools
+- **Programming Languages:** Python, Go
+- **Security Tools:** Burp Suite, Kali Linux
+- **Operating Systems:** Windows Server, Linux Server
+- **Other:** Effective teamwork, resilience under pressure
 
-[![My Skills](https://skillicons.dev/icons?i=go,python,docker,git,linux&perline=3)](https://skillicons.dev)
+## 📚 Education
 
-### Editors
+- Self-study and online courses in IT and programming
+- Preparation for Certified Ethical Hacker (CEH) exam
 
-[![vscode](https://skillicons.dev/icons?i=vscode&perline=3)](https://code.visualstudio.com/)
-[![visualstudio](https://skillicons.dev/icons?i=visualstudio&perline=3)](https://visualstudio.microsoft.com/)
+## 🌐 Interests
 
-## Get in Touch
+- Cybersecurity
+- Network automation
+- New technologies
 
-[![Github](https://skillicons.dev/icons?i=github&perline=3)](https://github.com/yangton)
-[![LinkedIn](https://skillicons.dev/icons?i=discord&perline=3)](https://www.linkedin.com/in/yangton/)
+## 📫 Get in Touch
 
+- Visit my [website](https://yangton.framer.ai/) 🌐
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82aj-k%C4%85dziela-a91978226/) 💼
+- Email me at [mikolaj.kadziela@tuta.io](mailto:mikolaj.kadziela@tuta.io) ✉️
 
-## GitHub Stats
-
-![Repository's Stats](https://github-readme-stats.vercel.app/api?username=yangton&show_icons=true&theme=radical&bg_color=000000&title_color=8E2DE2&text_color=ffffff&icon_color=8E2DE2)
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
