@@ -1,22 +1,38 @@
-![alt text](https://i.imgur.com/your_profile_picture.jpg)
-Hey there! 👋 I'm Yangton, a 19-year-old cybersecurity enthusiast 🕵️‍♂️.
-Passionate about uncovering vulnerabilities and securing systems 💪.
-My toolkit:
-Penetration Testing: Burp Suite, Kali Linux
-Programming: Python, Go
-My Arsenal 🛡️
-<div align="center">
-<img src="https://img.shields.io/badge/Python-3.9-blue.svg" alt="Python">
-<img src="https://img.shields.io/badge/Go-1.18-blue.svg" alt="Go">
-<img src="https://img.shields.io/badge/Burp%20Suite-Professional-blue.svg" alt="Burp Suite">
-<img src="https://img.shields.io/badge/Kali%20Linux-Rolling-blue.svg" alt="Kali Linux">
-</div>
-My Mission 🚀
-Learn, explore, and contribute to a safer digital world 🌎.
-Current Focus 🎯
-CEH Exam Prep: Sharpening my ethical hacking skills 📚.
-Building Pentesting Projects: Gaining hands-on experience 🛠️.
-Let's Connect! 🤝
-Always eager to connect with fellow security enthusiasts and collaborate on exciting projects!
-Website | LinkedIn
-Stay tuned for updates! 👀
+# Hi there, I'm Yangton! 👋
+
+Welcome to my GitHub profile! I'm a 19-year-old IT enthusiast with a passion for cybersecurity, network engineering, and software development. I love exploring new technologies and working on innovative projects.
+Welcome to my GitHub profile! I'm a 19-year-old IT enthusiast with a passion for cybersecurity, network engineering, and software development.
+
+## About Me
+
+I started my journey with a keen interest in cybersecurity, which led me to test website security and develop tools to make cryptocurrency mining more accessible. As a freelancer, I have worked on various projects involving Python, Go, and network automation. My goal is to continuously expand my skills and knowledge in these areas.
+
+## 🔒 Skills
+
+- **Programming Languages:** Python, Go
+- **Security Tools:** Burp Suite, Kali Linux
+- **Operating Systems:** Windows Server, Linux Server
+- **Other:** Effective teamwork, resilience under pressure
+
+## 📚 Education
+
+- Self-study and online courses in IT and programming
+- Preparation for Certified Ethical Hacker (CEH) exam
+
+## 🌐 Interests
+
+- Cybersecurity
+- Network automation
+- New technologies
+
+## 📫 Get in Touch
+
+- Visit my [website](https://yangton.framer.ai/) 🌐
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/miko%C5%82aj-k%C4%85dziela-a91978226/) 💼
+- Email me at [mikolaj.kadziela(at)tuta(dot)io](mailto:mikolaj.kadziela@tuta.io) ✉️ (available after clicking)
+- 🔒 **Skills:** Python, Go, Burp Suite, Kali Linux, Windows Server, Linux Server
+- 📚 **Education:** Self-study and online courses in IT and programming, Preparation for CEH exam
+- 🌐 **Interests:** Cybersecurity, Network automation, New technologies
+- 📫 **Get in Touch:** [Website](https://yangton.framer.ai/), [LinkedIn](https://www.linkedin.com/in/miko%C5%82aj-k%C4%85dziela-a91978226/)
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you'd like to collaborate on any projects.
