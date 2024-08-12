@@ -9,8 +9,6 @@
 [![Go](https://skillicons.dev/icons?i=go)](https://golang.org/)
 [![Bash](https://skillicons.dev/icons?i=bash)](https://www.gnu.org/software/bash/)
 [![Kali Linux](https://skillicons.dev/icons?i=linux)](https://www.kali.org/)
-[![Wireshark](https://skillicons.dev/icons?i=wireshark)](https://www.wireshark.org/)
-[![Burp Suite](https://skillicons.dev/icons?i=burpsuite)](https://portswigger.net/burp)
 [![Windows](https://skillicons.dev/icons?i=windows)](https://www.microsoft.com/windows)
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
