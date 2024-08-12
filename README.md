@@ -1,4 +1,5 @@
 👋 **Yangton** 👋 | 19 years old | 🔒 Cybersecurity Enthusiast 🔒
+🌟 ![Profile Visits](https://komarev.com/ghpvc/?username=yangton&color=6a0dad) 🌟
 
 ---
 
@@ -28,6 +29,3 @@
 - 🔧 **Tool Development:** 🔧 Creating cutting-edge tools for cybersecurity, network analysis, and automation.
 
 ---
-
-## 🌟 Profile Visits 🌟
-🌟 ![Profile Visits](https://komarev.com/ghpvc/?username=yangton&color=6a0dad) 🌟
