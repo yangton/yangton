@@ -1,6 +1,6 @@
-# 👋 Yangton | 19 Years Old | 🔒 Cybersecurity Enthusiast 🔒
+# 👋 yangton || 🔒 Cybersecurity Enthusiast 🔒
 
-🌟![](https://komarev.com/ghpvc/?username=yangton&style=plastic)🌟
+![](https://komarev.com/ghpvc/?username=yangton&style=plastic)
 
 ---
 
