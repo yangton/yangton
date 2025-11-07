@@ -1,5 +1,5 @@
 # 👋 yangton || 🔒 Cybersecurity Enthusiast 🔒 || [![vscodium](https://skillicons.dev/icons?i=vscodium&perline=3)](https://www.privacytools.io/)
-![snake gif](https://github.com/TwojLoginGitHub/TwojLoginGitHub/blob/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/yangton/yangton/output/snake.svg" alt="Snake animation" />
 
 ![](https://komarev.com/ghpvc/?username=yangton&style=plastic)
 
